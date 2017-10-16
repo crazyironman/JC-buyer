@@ -9,9 +9,20 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .box_3 {
 }
 .ellipse {
+}
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 ._图片 {
 }
@@ -121,7 +132,7 @@
 ._图片1 {
   color:#000000;
 }
-._形状 {
+._形状1 {
 }
 .icon {
 }
