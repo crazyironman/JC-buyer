@@ -275,3 +275,44 @@
   width:35px;
   white-space:nowrap;
 }
+#u446_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:345px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Cursiva', 'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:italic;
+  font-size:16px;
+  color:#999999;
+}
+#u446 {
+  border-width:0px;
+  position:absolute;
+  left:38px;
+  top:665px;
+  width:345px;
+  height:30px;
+  font-family:'Arial Cursiva', 'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:italic;
+  font-size:16px;
+  color:#999999;
+}
+#u447 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:345px;
+  word-wrap:break-word;
+}
