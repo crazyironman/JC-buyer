@@ -12,15 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u401_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:285px;
-  height:506px;
-}
-#u401 {
+#u402_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -29,6 +21,14 @@
   height:506px;
 }
 #u402 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:285px;
+  height:506px;
+}
+#u403 {
   border-width:0px;
   position:absolute;
   left:2px;
