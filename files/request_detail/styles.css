@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1182px;
+  width:1181px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -118,7 +118,7 @@
 #u48 {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:-1px;
   top:0px;
   width:750px;
   height:3505px;
