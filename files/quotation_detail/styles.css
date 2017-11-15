@@ -5449,3 +5449,34 @@
   width:300px;
   word-wrap:break-word;
 }
+#u590_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:55px;
+  background:inherit;
+  background-color:rgba(255, 223, 37, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+#u590 {
+  border-width:0px;
+  position:absolute;
+  left:742px;
+  top:2408px;
+  width:300px;
+  height:55px;
+}
+#u591 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:280px;
+  word-wrap:break-word;
+}
